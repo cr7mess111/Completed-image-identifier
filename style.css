@@ -1,0 +1,19 @@
+body
+{
+   background-image: linear-gradient(gold 45%, olive 55%);
+}
+.heading
+{
+    width: 80%;
+    font-size: 21;
+}
+#camera
+{
+    border: 2px dashed burlywood;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: crimson;
+}
